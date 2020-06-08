@@ -1,0 +1,13 @@
+h1 {
+    color: Red
+}
+
+table,
+th,
+td {
+    border: 2px solid green;
+}
+
+.tabClass{
+    border: 3px solid yellow;
+}
